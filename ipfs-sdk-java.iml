@@ -10,5 +10,10 @@
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Maven: io.ipfs:ipfs-api:v1.2.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.multiformats:java-multiaddr:v1.3.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.multiformats:java-multihash:v1.1.1" level="project" />
+    <orderEntry type="library" name="Maven: com.github.multiformats:java-multibase:v1.1.0" level="project" />
+    <orderEntry type="library" name="Maven: com.github.ipld:java-cid:v1.1.0" level="project" />
   </component>
 </module>
