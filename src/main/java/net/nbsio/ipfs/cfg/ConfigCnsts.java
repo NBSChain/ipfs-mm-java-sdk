@@ -15,4 +15,6 @@ public class ConfigCnsts {
     public final static String JSON_AVATAR_KEY = "avatar";
     public final static String JSON_AVATAR_NAME_KEY = "avatar-name";
     public final static String JSON_AVATAR_SUFFIX_KEY = "suffix";
+    public final static String JSON_AVATAR_SUFFIX_PNG = ".png";
+
 }
